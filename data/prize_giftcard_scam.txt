@@ -1,0 +1,16 @@
+From: "Amazon Rewards Team" <rewards.notify@amaz0n-prizes.gq>
+Subject: Congratulations! You have won a $500 gift card
+
+Dear Valued Member,
+
+You have won a $500 Amazon gift card as part of our loyalty rewards
+program! This offer expires today, so please claim your prize immediately.
+
+Claim your prize here: http://192.168.77.14/claim?id=44821
+
+To process your gift card, a small processing fee is required. Please
+have your payment details ready when you click here to continue.
+
+This is a limited time offer - act now before it expires!
+
+Amazon Rewards Team
