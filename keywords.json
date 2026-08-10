@@ -1,0 +1,44 @@
+{
+  "urgency": {
+    "weight": 3,
+    "terms": [
+      "act now", "immediate action required", "urgent", "24 hours",
+      "account will be suspended", "account has been limited",
+      "verify immediately", "final notice", "response required",
+      "expires today", "your account will be closed", "time sensitive"
+    ]
+  },
+  "credential_harvesting": {
+    "weight": 5,
+    "terms": [
+      "verify your account", "confirm your password", "update your billing",
+      "login to your account", "reset your password", "confirm your identity",
+      "unusual sign-in activity", "click the link below to verify",
+      "re-enter your credentials", "validate your information"
+    ]
+  },
+  "financial_lure": {
+    "weight": 4,
+    "terms": [
+      "wire transfer", "gift card", "you have won", "claim your prize",
+      "tax refund", "invoice attached", "payment failed", "bitcoin",
+      "lottery", "inheritance", "processing fee", "beneficiary"
+    ]
+  },
+  "authority_impersonation": {
+    "weight": 3,
+    "terms": [
+      "it department", "help desk", "system administrator", "security team",
+      "microsoft account team", "amazon support", "irs", "bank of",
+      "paypal", "hr department", "ceo request", "compliance department"
+    ]
+  },
+  "generic_red_flags": {
+    "weight": 2,
+    "terms": [
+      "dear customer", "dear user", "dear valued member", "kindly",
+      "do not reply to this email", "this is not a scam",
+      "click here", "download the attachment", "open the attached file"
+    ]
+  }
+}
