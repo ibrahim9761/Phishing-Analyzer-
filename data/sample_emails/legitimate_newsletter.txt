@@ -1,0 +1,16 @@
+From: "Sarah Chen" <sarah.chen@acmecorp.com>
+Reply-To: sarah.chen@acmecorp.com
+Subject: Team meeting notes from today
+
+Hi team,
+
+Thanks for joining today's sync. A few quick notes:
+
+- The Q3 roadmap doc is up on Confluence, please review before Friday.
+- Design review moved to Thursday 2pm.
+- I'll send the recording link once it's processed.
+
+Let me know if you have questions.
+
+Best,
+Sarah
